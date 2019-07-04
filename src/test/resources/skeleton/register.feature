@@ -2,9 +2,9 @@ Feature: Register Test
 
 Scenario: User register into TestMe Application
 Given user opens the signup page of TestMe Application
-When user enters username as "Pavinciya"
-And user enters fname as "Pavinciya"
-And user enters lname as "Valan"
+When user enters username as "AanoSusan"
+And user enters fname as "AanoSusan"
+And user enters lname as "Vino"
 And user enters pass as "kavinciyo"
 And user enters cpass as "kavinciyo"
 And user select gender 
