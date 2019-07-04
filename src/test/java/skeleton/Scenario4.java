@@ -21,10 +21,10 @@ public void alex_has_registered_in_to_TestMeApp() {
 		WebElement signin=driver.findElement(By.xpath("//*[@id=\"header\"]/div[1]/div/div/div[2]/div/ul/li[1]/a"));
 		signin.click();
 	WebElement user=driver.findElement(By.xpath("//*[@id=\"userName\"]"));
-	user.sendKeys("AlexUser");
+	user.sendKeys("lalitha");
 	
 	WebElement pass=driver.findElement(By.xpath("//*[@id=\"password\"]"));
-	pass.sendKeys("Alex@123");
+	pass.sendKeys("password123");
 	WebElement login=driver.findElement(By.xpath("/html/body/main/div/div/div/form/fieldset/div[4]/div/input[1]"));
 	login.click();
 }
