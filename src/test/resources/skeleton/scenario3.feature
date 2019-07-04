@@ -3,8 +3,8 @@ Description: Alex, an elite user of TestMeApp, purchase most of his products fro
 
 Scenario: user searches for the product
 Given user opens login page
-When user enter loginusername as "AlexUser"
-And user enter password as "Alex@123"
+When user enter loginusername as "lalitha"
+And user enter password as "password123"
 And Click on login button
 
 And user enter the product as "head"
