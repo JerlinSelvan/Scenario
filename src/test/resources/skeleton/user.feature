@@ -11,4 +11,4 @@ And verify successful login
 
 Examples:
 |un|pass|
-|AlexUser|Alex@123|
+|lalitha|password123|
